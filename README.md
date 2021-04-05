@@ -9,10 +9,6 @@ I am comfortable sharing my submission to:
 - [x] Peers on Forum
 - [x] Anonymously via Course Twitter: [@ProbablyLearn](https://twitter.com/ProbablyLearn)
 
-If you aren't reading this on Github and you would like to, here is the link:
-
-[https://github.com/cheongb002/CSC412_Comm_submission]
-
 ## Summary
 For the ComSci Communication assignment, I opted to create a few animations based on the plots created in the assignments. I hope that these animations give some good intuition about ideas covered in the course!
 
